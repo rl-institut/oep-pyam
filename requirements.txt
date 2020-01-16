@@ -1,0 +1,8 @@
+oedialect
+sqlalchemy
+pandas
+geopandas
+descartes
+numpy
+pyam-iamc
+saio
